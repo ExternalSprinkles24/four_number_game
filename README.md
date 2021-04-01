@@ -23,7 +23,7 @@ The rules of this game are heavily argued. These rules are my rules that I have 
 		* (multiply)
 		/ (divide) 
 		( (open brackets)
-    		) (close brackets)
+    	) (close brackets)
 		^ (exponent)
 		! (factorial)
 		. (Decimal point. We must allow the omittion of the 0 when dealing with -1 < decimals < 1)
